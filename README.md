@@ -1,4 +1,27 @@
-## 🛠️ Odysseus AI — Technical Support Services
+# 🦞 OpenClaw — Personal AI Assistant Support and Services
+
+<p align="center">
+  <img src="openclawlogo.png" alt="OpenClaw — Personal AI Assistant Training" alt="OpenClaw — Personal AI Assistant Training" width="90%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/SchoolOfFreelancing/OpenClaw-Hands-on-Training.git">OpenClaw AI Training</a> | <a href="https://github.com/SchoolOfFreelancing/Odysseus-AI-Setup-Support.git/">OpenClaw AI Setup Support</a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/SchoolOfFreelancingTraining">
+    <img src="https://img.shields.io/badge/Telegram-Get%20Live%20Training-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support">
+  </a>
+
+  <a href="https://wa.me/8801748973769">
+    <img src="https://img.shields.io/badge/WhatsApp-Get%20Live%20Training-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Support">
+  </a>
+
+   <a href="LICENSE">
+   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License">
+   </a>
+   
+</p>
 
 Professional Odysseus AI production deployment, configuration, troubleshooting support and service for **Odysseus AI Workspace** self-hosted AI agent infrastructure — delivered by School of Freelancing.
 
