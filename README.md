@@ -1,4 +1,4 @@
-# 🦞 OpenClaw — Personal AI Assistant Support and Services
+# 🦞 OpenClaw AI Setup & Support Services
 
 <p align="center">
   <img src="openclawlogo.png" alt="OpenClaw — Personal AI Assistant Training" alt="OpenClaw — Personal AI Assistant Training" width="90%">
