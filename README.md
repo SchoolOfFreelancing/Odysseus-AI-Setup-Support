@@ -107,7 +107,7 @@ Simply contact us with your server details and project requirements. We'll revie
 </details>
 
 ## Get Expert Support
-Contact us on [WhatsApp](https://wa.me/8801748973769) or [Telegram](https://t.me/SchoolOfFreelancingTraining) to start Hermes Agent Installation Support.
+Contact us on [WhatsApp](https://wa.me/8801748973769) or [Telegram](https://t.me/SchoolOfFreelancingTraining) to start OpenClaw AI Setup & Support Services.
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
