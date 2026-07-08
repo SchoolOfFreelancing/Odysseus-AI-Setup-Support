@@ -83,13 +83,8 @@ Simply contact us with your server details and project requirements. We'll revie
 
 </details>
 
-
-### Contact
 ## Get Expert Support
 Contact us on [WhatsApp](https://wa.me/8801748973769) or [Telegram](https://t.me/SchoolOfFreelancingTraining) to start Hermes Agent Installation Support.
-
----
-*Part of [School of Freelancing](https://schooloffreelancing.com) — Linux & Cloud Infrastructure Training and Support*
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to OpenClaw installation. Product names, trademarks, and service names belong to their respective owners.
@@ -103,3 +98,6 @@ This repository is intended to provide guidance, documentation, and support reso
 </div>
 
 <div align="center"> Made with ❤️ in Bangladesh </div>
+
+---
+*Part of [School of Freelancing](https://schooloffreelancing.com) — Linux & Cloud Infrastructure Training and Support*
